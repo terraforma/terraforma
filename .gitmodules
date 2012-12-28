@@ -1,0 +1,12 @@
+[submodule "fractal"]
+	path = fractal
+	url = ../fractal
+[submodule "libterra"]
+	path = libterra
+	url = ../libterra
+[submodule "skyscraper"]
+	path = skyscraper
+	url = ../skyscraper
+[submodule "wires"]
+	path = wires
+	url = ../wires
