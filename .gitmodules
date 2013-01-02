@@ -1,12 +1,12 @@
 [submodule "fractal"]
 	path = fractal
-	url = ../fractal
+	url = git://github.com/terraforma/fractal.git
 [submodule "libterra"]
 	path = libterra
-	url = ../libterra
+	url = git://github.com/terraforma/libterra.git
 [submodule "skyscraper"]
 	path = skyscraper
-	url = ../skyscraper
+	url = git://github.com/terraforma/skyscraper.git
 [submodule "wires"]
 	path = wires
-	url = ../wires
+	url = git://github.com/terraforma/wires.git
