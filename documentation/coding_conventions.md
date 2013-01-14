@@ -1,4 +1,5 @@
-# General #
+General
+-------
 **Use real tabs that equal 4 spaces.**
 
 **Use typically trailing braces everywhere** (if, else, functions, structures, typedefs, class definitions, etc.)
@@ -117,7 +118,8 @@ Don’t use:
 
 	int const *p;
 
-# Classes #
+Classes
+-------
 **The standard header for a class is**:
 
 	/*
@@ -222,7 +224,8 @@ In this case, a const version of GetAnimator was provided in order to allow GetA
 		tfMD5Anim *		GetEditableAnim(animHandle_t _handle);
 	};
 
-# File Names #
+File Names
+----------
 
 **Each class should be in a separate source file unless it makes sense to group several smaller classes.**
 
