@@ -118,6 +118,23 @@ Don’t use:
 
 	int const *p;
 
+**Include the project name, and full source file path in include guards.**
+
+Eg. In file include/Version.h in the libterra project:
+
+	#ifndef _LIBTERRA_INCLUDE_VERSION_H_
+	#define _LIBTERRA_INCLUDE_VERSION_H_
+
+	#endif
+
+**Use a namespace pertaining to the project you're working in**
+
+In the libterra project:
+
+	namespace LibTerra {
+		...
+	}
+
 Classes
 -------
 **The standard header for a class is**:
