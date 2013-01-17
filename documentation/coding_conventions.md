@@ -125,7 +125,7 @@ Eg. In file include/Version.h in the libterra project:
 	#ifndef _LIBTERRA_INCLUDE_VERSION_H_
 	#define _LIBTERRA_INCLUDE_VERSION_H_
 
-	#endif
+	#endif /* _LIBTERRA_INCLUDE_VERSION_H_ */ 
 
 **Use a namespace pertaining to the project you're working in**
 
