@@ -11,9 +11,9 @@
 	     absolute position within the landscape, shape and height -->
 	<buildings>
 		<!-- A building has a unique id, type (skyscraper, commercial 
-		     building or residental house), height and list of basepoints. 
-		     Height is expressed in meters -->
-		<building id="1" type="skyscraper" height="500">
+		     building or residental house), number of floors and list
+		     of basepoints.-->
+		<building id="1" type="skyscraper" numberOfFloors="50">
 			<!-- A basepoint has a unique id, and three coordinates -->
 			<basepoint id="1" absX="0.1" absY="-0.1" absZ="0.0">
 			<basepoint id="2" absX="0.1" absY="0.1" absZ="0.0">
