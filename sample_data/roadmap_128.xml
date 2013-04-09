@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<roadmap version="0.1.0">
+	<width>128</width>
+	<height>128</height>
+	<nodes>
+		<node id="0" absX="-64" absY="-64" absZ="0.0862745" />
+		<node id="1" absX="-49" absY="-64" absZ="0.00392157" />
+		<node id="2" absX="-34" absY="-64" absZ="0" />
+		<node id="3" absX="-19" absY="-64" absZ="0" />
+		<node id="4" absX="-4" absY="-64" absZ="0.105882" />
+		<node id="5" absX="11" absY="-64" absZ="0.152941" />
+		<node id="6" absX="26" absY="-64" absZ="0.337255" />
+		<node id="7" absX="41" absY="-64" absZ="0.517647" />
+		<node id="8" absX="56" absY="-64" absZ="0.709804" />
+		<node id="9" absX="-64" absY="-49" absZ="0.309804" />
+		<node id="10" absX="-49" absY="-49" absZ="0.25098" />
+		<node id="11" absX="-34" absY="-49" absZ="0.0470588" />
+		<node id="12" absX="-19" absY="-49" absZ="0.12549" />
+		<node id="13" absX="-4" absY="-49" absZ="0.0117647" />
+		<node id="14" absX="11" absY="-49" absZ="0.0392157" />
+		<node id="15" absX="26" absY="-49" absZ="0.223529" />
+		<node id="16" absX="41" absY="-49" absZ="0.47451" />
+		<node id="17" absX="56" absY="-49" absZ="0.788235" />
+		<node id="18" absX="-64" absY="-34" absZ="0.4" />
+		<node id="19" absX="-49" absY="-34" absZ="0.278431" />
+		<node id="20" absX="-34" absY="-34" absZ="0.0509804" />
+		<node id="21" absX="-19" absY="-34" absZ="0" />
+		<node id="22" absX="-4" absY="-34" absZ="0.168627" />
+		<node id="23" absX="11" absY="-34" absZ="0.223529" />
+		<node id="24" absX="26" absY="-34" absZ="0.368627" />
+		<node id="25" absX="41" absY="-34" absZ="0.615686" />
+		<node id="26" absX="56" absY="-34" absZ="0.937255" />
+		<node id="27" absX="-34" absY="-19" absZ="0" />
+		<node id="28" absX="-19" absY="-19" absZ="0.101961" />
+		<node id="29" absX="-4" absY="-19" absZ="0.168627" />
+		<node id="30" absX="11" absY="-19" absZ="0.145098" />
+		<node id="31" absX="26" absY="-19" absZ="0.145098" />
+		<node id="32" absX="41" absY="-19" absZ="0.482353" />
+		<node id="33" absX="56" absY="-19" absZ="0.741176" />
+		<node id="34" absX="-49" absY="-4" absZ="0.368627" />
+		<node id="35" absX="-34" absY="-4" absZ="0" />
+		<node id="36" absX="-4" absY="-4" absZ="0.00784314" />
+		<node id="37" absX="11" absY="-4" absZ="0.0392157" />
+		<node id="38" absX="26" absY="-4" absZ="0.133333" />
+		<node id="39" absX="41" absY="-4" absZ="0.423529" />
+		<node id="40" absX="56" absY="-4" absZ="0.658824" />
+		<node id="41" absX="-49" absY="11" absZ="0.247059" />
+		<node id="42" absX="-34" absY="11" absZ="0.196078" />
+		<node id="43" absX="-19" absY="11" absZ="0.105882" />
+		<node id="44" absX="11" absY="11" absZ="0.172549" />
+		<node id="45" absX="26" absY="11" absZ="0.27451" />
+		<node id="46" absX="41" absY="11" absZ="0.478431" />
+		<node id="47" absX="56" absY="11" absZ="0.572549" />
+		<node id="48" absX="-49" absY="26" absZ="0.396078" />
+		<node id="49" absX="-34" absY="26" absZ="0.376471" />
+		<node id="50" absX="-19" absY="26" absZ="0.313726" />
+		<node id="51" absX="-4" absY="26" absZ="0" />
+		<node id="52" absX="11" absY="26" absZ="0" />
+		<node id="53" absX="26" absY="26" absZ="0.45098" />
+		<node id="54" absX="41" absY="26" absZ="0.501961" />
+		<node id="55" absX="56" absY="26" absZ="0.596078" />
+		<node id="56" absX="-49" absY="41" absZ="0.47451" />
+		<node id="57" absX="-34" absY="41" absZ="0.482353" />
+		<node id="58" absX="-19" absY="41" absZ="0.541176" />
+		<node id="59" absX="-4" absY="41" absZ="0.490196" />
+		<node id="60" absX="11" absY="41" absZ="0.286275" />
+		<node id="61" absX="41" absY="41" absZ="0.00392157" />
+		<node id="62" absX="56" absY="41" absZ="0.254902" />
+		<node id="63" absX="-49" absY="56" absZ="0" />
+		<node id="64" absX="-34" absY="56" absZ="0" />
+		<node id="65" absX="41" absY="56" absZ="0" />
+		<node id="66" absX="56" absY="56" absZ="0" />
+	</nodes>
+	<relations>
+		<relation nodeA="0" nodeB="9" />
+		<relation nodeA="0" nodeB="1" />
+		<relation nodeA="1" nodeB="10" />
+		<relation nodeA="1" nodeB="2" />
+		<relation nodeA="2" nodeB="11" />
+		<relation nodeA="2" nodeB="3" />
+		<relation nodeA="3" nodeB="12" />
+		<relation nodeA="3" nodeB="4" />
+		<relation nodeA="4" nodeB="13" />
+		<relation nodeA="4" nodeB="5" />
+		<relation nodeA="5" nodeB="14" />
+		<relation nodeA="5" nodeB="6" />
+		<relation nodeA="6" nodeB="15" />
+		<relation nodeA="6" nodeB="7" />
+		<relation nodeA="7" nodeB="16" />
+		<relation nodeA="7" nodeB="8" />
+		<relation nodeA="8" nodeB="17" />
+		<relation nodeA="9" nodeB="18" />
+		<relation nodeA="9" nodeB="10" />
+		<relation nodeA="10" nodeB="19" />
+		<relation nodeA="10" nodeB="11" />
+		<relation nodeA="11" nodeB="20" />
+		<relation nodeA="11" nodeB="12" />
+		<relation nodeA="12" nodeB="21" />
+		<relation nodeA="12" nodeB="13" />
+		<relation nodeA="13" nodeB="22" />
+		<relation nodeA="13" nodeB="14" />
+		<relation nodeA="14" nodeB="23" />
+		<relation nodeA="14" nodeB="15" />
+		<relation nodeA="15" nodeB="24" />
+		<relation nodeA="15" nodeB="16" />
+		<relation nodeA="16" nodeB="25" />
+		<relation nodeA="16" nodeB="17" />
+		<relation nodeA="17" nodeB="26" />
+		<relation nodeA="18" nodeB="19" />
+		<relation nodeA="19" nodeB="20" />
+		<relation nodeA="20" nodeB="27" />
+		<relation nodeA="20" nodeB="21" />
+		<relation nodeA="21" nodeB="28" />
+		<relation nodeA="21" nodeB="22" />
+		<relation nodeA="22" nodeB="29" />
+		<relation nodeA="22" nodeB="23" />
+		<relation nodeA="23" nodeB="30" />
+		<relation nodeA="23" nodeB="24" />
+		<relation nodeA="24" nodeB="31" />
+		<relation nodeA="24" nodeB="25" />
+		<relation nodeA="25" nodeB="32" />
+		<relation nodeA="25" nodeB="26" />
+		<relation nodeA="26" nodeB="33" />
+		<relation nodeA="27" nodeB="35" />
+		<relation nodeA="27" nodeB="28" />
+		<relation nodeA="28" nodeB="29" />
+		<relation nodeA="29" nodeB="36" />
+		<relation nodeA="29" nodeB="30" />
+		<relation nodeA="30" nodeB="37" />
+		<relation nodeA="30" nodeB="31" />
+		<relation nodeA="31" nodeB="38" />
+		<relation nodeA="31" nodeB="32" />
+		<relation nodeA="32" nodeB="39" />
+		<relation nodeA="32" nodeB="33" />
+		<relation nodeA="33" nodeB="40" />
+		<relation nodeA="34" nodeB="41" />
+		<relation nodeA="34" nodeB="35" />
+		<relation nodeA="35" nodeB="42" />
+		<relation nodeA="36" nodeB="37" />
+		<relation nodeA="37" nodeB="44" />
+		<relation nodeA="37" nodeB="38" />
+		<relation nodeA="38" nodeB="45" />
+		<relation nodeA="38" nodeB="39" />
+		<relation nodeA="39" nodeB="46" />
+		<relation nodeA="39" nodeB="40" />
+		<relation nodeA="40" nodeB="47" />
+		<relation nodeA="41" nodeB="48" />
+		<relation nodeA="41" nodeB="42" />
+		<relation nodeA="42" nodeB="49" />
+		<relation nodeA="42" nodeB="43" />
+		<relation nodeA="43" nodeB="50" />
+		<relation nodeA="44" nodeB="52" />
+		<relation nodeA="44" nodeB="45" />
+		<relation nodeA="45" nodeB="53" />
+		<relation nodeA="45" nodeB="46" />
+		<relation nodeA="46" nodeB="54" />
+		<relation nodeA="46" nodeB="47" />
+		<relation nodeA="47" nodeB="55" />
+		<relation nodeA="48" nodeB="56" />
+		<relation nodeA="48" nodeB="49" />
+		<relation nodeA="49" nodeB="57" />
+		<relation nodeA="49" nodeB="50" />
+		<relation nodeA="50" nodeB="58" />
+		<relation nodeA="50" nodeB="51" />
+		<relation nodeA="51" nodeB="59" />
+		<relation nodeA="51" nodeB="52" />
+		<relation nodeA="52" nodeB="60" />
+		<relation nodeA="52" nodeB="53" />
+		<relation nodeA="53" nodeB="54" />
+		<relation nodeA="54" nodeB="61" />
+		<relation nodeA="54" nodeB="55" />
+		<relation nodeA="55" nodeB="62" />
+		<relation nodeA="56" nodeB="63" />
+		<relation nodeA="56" nodeB="57" />
+		<relation nodeA="57" nodeB="64" />
+		<relation nodeA="57" nodeB="58" />
+		<relation nodeA="58" nodeB="59" />
+		<relation nodeA="59" nodeB="60" />
+		<relation nodeA="61" nodeB="65" />
+		<relation nodeA="61" nodeB="62" />
+		<relation nodeA="62" nodeB="66" />
+		<relation nodeA="63" nodeB="64" />
+		<relation nodeA="65" nodeB="66" />
+	</relations>
+</roadmap>
