@@ -1,13 +1,13 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libterra", "libterra\libterra.vcxproj", "{5AA429C1-76C4-40E4-857A-75ED6D812FE8}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LibTerra", "libterra\libterra.vcxproj", "{5AA429C1-76C4-40E4-857A-75ED6D812FE8}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fractal", "fractal\fractal.vcxproj", "{93B5A070-CE5A-4349-879C-09031C5552D4}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Wires", "wires\wires.vcxproj", "{9379D7F4-D3B1-4579-991F-D40470E35ACF}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "skyscraper", "skyscraper\skyscraper.vcxproj", "{42618E69-6844-457F-ABF3-B0D4D6B65BD8}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Skyscraper", "skyscraper\skyscraper.vcxproj", "{42618E69-6844-457F-ABF3-B0D4D6B65BD8}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wires", "wires\wires.vcxproj", "{9379D7F4-D3B1-4579-991F-D40470E35ACF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fractal", "fractal\fractal.vcxproj", "{93B5A070-CE5A-4349-879C-09031C5552D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,18 +19,18 @@ Global
 		{5AA429C1-76C4-40E4-857A-75ED6D812FE8}.Debug|Win32.Build.0 = Debug|Win32
 		{5AA429C1-76C4-40E4-857A-75ED6D812FE8}.Release|Win32.ActiveCfg = Release|Win32
 		{5AA429C1-76C4-40E4-857A-75ED6D812FE8}.Release|Win32.Build.0 = Release|Win32
-		{93B5A070-CE5A-4349-879C-09031C5552D4}.Debug|Win32.ActiveCfg = Debug|Win32
-		{93B5A070-CE5A-4349-879C-09031C5552D4}.Debug|Win32.Build.0 = Debug|Win32
-		{93B5A070-CE5A-4349-879C-09031C5552D4}.Release|Win32.ActiveCfg = Release|Win32
-		{93B5A070-CE5A-4349-879C-09031C5552D4}.Release|Win32.Build.0 = Release|Win32
-		{42618E69-6844-457F-ABF3-B0D4D6B65BD8}.Debug|Win32.ActiveCfg = Debug|Win32
-		{42618E69-6844-457F-ABF3-B0D4D6B65BD8}.Debug|Win32.Build.0 = Debug|Win32
-		{42618E69-6844-457F-ABF3-B0D4D6B65BD8}.Release|Win32.ActiveCfg = Release|Win32
-		{42618E69-6844-457F-ABF3-B0D4D6B65BD8}.Release|Win32.Build.0 = Release|Win32
 		{9379D7F4-D3B1-4579-991F-D40470E35ACF}.Debug|Win32.ActiveCfg = Debug|Win32
 		{9379D7F4-D3B1-4579-991F-D40470E35ACF}.Debug|Win32.Build.0 = Debug|Win32
 		{9379D7F4-D3B1-4579-991F-D40470E35ACF}.Release|Win32.ActiveCfg = Release|Win32
 		{9379D7F4-D3B1-4579-991F-D40470E35ACF}.Release|Win32.Build.0 = Release|Win32
+		{42618E69-6844-457F-ABF3-B0D4D6B65BD8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{42618E69-6844-457F-ABF3-B0D4D6B65BD8}.Debug|Win32.Build.0 = Debug|Win32
+		{42618E69-6844-457F-ABF3-B0D4D6B65BD8}.Release|Win32.ActiveCfg = Release|Win32
+		{42618E69-6844-457F-ABF3-B0D4D6B65BD8}.Release|Win32.Build.0 = Release|Win32
+		{93B5A070-CE5A-4349-879C-09031C5552D4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{93B5A070-CE5A-4349-879C-09031C5552D4}.Debug|Win32.Build.0 = Debug|Win32
+		{93B5A070-CE5A-4349-879C-09031C5552D4}.Release|Win32.ActiveCfg = Release|Win32
+		{93B5A070-CE5A-4349-879C-09031C5552D4}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
